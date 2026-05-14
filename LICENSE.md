@@ -1,4 +1,4 @@
-#  
+#  automatic Evernote for macOS Addon | version history + collaboration offers the most advanced Evernote for macOS addon, with version history and collaboration. Ideal for
 
 
 
